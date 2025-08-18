@@ -1,0 +1,6 @@
+id,name,x,y,z
+0,Left-Prefrontal, -30,50,20
+1,Right-Prefrontal,30,50,20
+2,Left-Motor,-45,0,30
+3,Right-Motor,45,0,30
+4,Occipital,0,-80,10
