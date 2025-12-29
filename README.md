@@ -2,7 +2,7 @@
 
 An interactive, full-stack web application for visualizing functional brain connectivity in 3D space. This tool parses coordinate and connectivity matrix data on the backend and renders an interactive 3D network graph on the frontend, enabling researchers to explore and filter brain connections based on connection strength.
 
-![Interactive Brain Viewer](Screenshot 2025-12-29 at 11.41.49 AM.png)
+![Interactive Brain Viewer](demo.png)
 
 
 ## Features
